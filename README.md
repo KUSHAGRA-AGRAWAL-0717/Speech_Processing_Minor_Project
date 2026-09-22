@@ -1,4 +1,4 @@
-# Speech Processing Branch — Alzheimer's Disease Detection
+# Speech Processing Branch: Alzheimer's Disease Detection
 
 A complete, modular PyTorch implementation of the **Speech Processing Branch** for multimodal Alzheimer's Disease (AD) detection using the **DementiaBank Pitt Corpus**.
 
